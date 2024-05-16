@@ -1,0 +1,2 @@
+docker build -t banking-system-in-python .
+docker run -it banking-system-in-python
